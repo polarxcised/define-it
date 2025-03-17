@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ## Usage  
 Run the script:  
 ```
-python dic.py  
+python define_it.py  
 ```
 Follow the menu options to search for words, view history, or get a random word.
 
