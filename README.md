@@ -2,8 +2,8 @@
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)  
 [![License](https://img.shields.io/badge/License-Unlicense-lightgrey.svg)](https://choosealicense.com/licenses/unlicense/)  
 [![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/Anshkabra2012/define-it/issues)  
-[![Stars](https://img.shields.io/github/stars/Anshkabra2012/define-it?style=social)](https://github.com/Anshkabra2012/define-it/stargazers)  
-[![Forks](https://img.shields.io/github/forks/Anshkabra2012/define-it?style=social)](https://github.com/Anshkabra2012/define-it/network/members)  
+[![Stars](https://img.shields.io/github/stars/polarxcised/define-it?style=social)](https://github.com/Anshkabra2012/define-it/stargazers)  
+[![Forks](https://img.shields.io/github/forks/polarxcised/define-it?style=social)](https://github.com/Anshkabra2012/define-it/network/members)  
 
 ## About  
 Define-It is a Python-based command-line dictionary tool that fetches definitions, synonyms, antonyms, phonetics, and pronunciation audio using the [Dictionary API](https://dictionaryapi.dev/).  
